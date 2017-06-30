@@ -1,0 +1,16 @@
+"Tools"	"Jan_16"
+"1"	"JIRA"	49
+"2"	"Googlesheet"	34
+"3"	"JIRA Agile"	19
+"4"	"MS Project family"	7
+"5"	"Visual Mgmt"	5
+"6"	"Trello"	3
+"7"	"Internal Tools"	2
+"8"	"MS Team Foundation Server"	2
+"9"	"VantagePoint"	2
+"10"	"Confluence"	1
+"11"	"Lotus Notes Custom App"	1
+"12"	"MS Excel"	1
+"13"	"None"	1
+"14"	"RealtimeBoard"	1
+"15"	"Team Track (Serena)"	1
